@@ -5,6 +5,8 @@ public class Gun1 {
 
         System.out.println("EMRAH");
 
+        System.out.println("github deneme");
+
 
     }
 }
